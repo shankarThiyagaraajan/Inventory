@@ -6,8 +6,9 @@
     "keywords": ["shop", "ecommerce", "stock", "inventory", "sylius"],
     "homepage": "http://sylius.org",
     "license": "MIT",
-    "authors": [
+    "authors": [{
         "name" : "Shankar Thiyagaraajan"    
+    }
     ],
     
     "require": {
